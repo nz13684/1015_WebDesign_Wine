@@ -1,4 +1,12 @@
 body {
   background-color: #994533;
 }
+
+.carousel-item {
+  height: 360px;
+}
+
+.card {
+  height: 100%;
+}
 /*# sourceMappingURL=style.css.map */
