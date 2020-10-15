@@ -7,5 +7,11 @@ body {
 }
 
 .card {
-    height: 100%;
+    height: 360px;
+
+    img {
+        height: 100%;
+        //img 適用的 background-size
+        object-fit: cover;
+    }
 }
